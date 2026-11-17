@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Designer"
+  short_description: "Build client apps, SaaS products, and consumer-facing web experiences"
+  default_prompt: "Use $product-designer to design or build a polished client app, SaaS product, landing page, onboarding flow, pricing page, or consumer-facing web experience."
